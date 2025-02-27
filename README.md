@@ -56,4 +56,4 @@ lib/
 ├── gradient_container.dart # Creates the gradient background UI
 ├── dice_roller.dart       # Contains dice rolling logic
 └── styled_text.dart       # Custom styled text components
-
+```
